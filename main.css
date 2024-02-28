@@ -15,3 +15,16 @@
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
+
+.container--narrow {
+    max-width: 732px;
+}
+
+.avatar-tiny {
+    width: 25px;
+    height: 25px;
+    border-radius: 12px;
+    margin-right: 4px;
+    position: relative;
+    top: -1;
+}
